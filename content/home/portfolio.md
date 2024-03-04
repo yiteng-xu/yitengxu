@@ -28,6 +28,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: AAAI2023
+      tag: AAAI2023
     - name: Machine Learning
       tag: ML
     - name: Computer Vision
@@ -40,5 +42,5 @@ design:
   view: masonry
   flip_alt_rows: true
   background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  spacing: {padding: [0, 0, 0, 0,0]}
 ---
