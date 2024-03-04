@@ -30,12 +30,11 @@ content:
       tag: '*'
     - name: AAAI2023
       tag: AAAI2023
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: ICCV2023
+      tag: ICCV2023
+    - name: CVPR2024
+      tag: CVPR2024
+    
 
 design:
   columns: '1'
