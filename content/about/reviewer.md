@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Milan, Italy
     date_start: '2024-09-29'
-    date_end: '2024-10-4'
+    date_end: '2024-10-04'
     description: |2-
         Reviewer
   - title: CVPR2024 Reviewer
