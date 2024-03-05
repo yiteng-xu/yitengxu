@@ -22,22 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: The 6th Innovation & Entrepreneurship Summit techIES2023
-    company: Third Prize
-    company_url: 'https://mp.weixin.qq.com/s/hVnvGFJB_kYyfxMbnxM5bw'
+  - title: Introduction to Information Science and Technology
+    company: ShanghaiTech University
+    company_url: ''
     company_logo: org-x
     location: Shanghai, China
-    date_start: '2023-11-01'
-    date_end: '2023-11-01'
-    description: A low-cost and highly accurate product developed based on copy number features for predicting the presence of homologous recombination defect features in pan cancer patients.
-  - title: The 19th National College Student Robot Competition ROBOMASTER 2020
-    company: National Second Prize
-    company_url: 'https://www.robomaster.com/zh-CN'
-    company_logo: org-gc
-    location: China
-    date_start: '2020-08-01'
-    date_end: '2020-08-01'
-    description: 
+    date_start: '2021-2-01'
+    date_end: '2022-7-01'
+    description: Teaching Assistant
+  
 
   
 

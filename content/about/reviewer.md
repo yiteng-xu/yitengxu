@@ -29,8 +29,7 @@ experience:
     location: Milan, Italy
     date_start: '2024-09-29'
     date_end: '2024-10-04'
-    description: |2-
-        Reviewer
+    description: 
   - title: CVPR2024 Reviewer
     company: CVPR2024
     company_url: 'https://cvpr.thecvf.com/'
@@ -38,8 +37,7 @@ experience:
     location: Seattle WA, USA
     date_start: '2024-06-17'
     date_end: '2024-06-21'
-    description: |2-
-        Reviewer
+    description: 
   - title: ICCV2023 Reviewer
     company: ICCV2023
     company_url: 'https://iccv2023.thecvf.com/'
@@ -47,8 +45,7 @@ experience:
     location: Paris, France
     date_start: '2023-10-02'
     date_end: '2023-10-06'
-    description: |2-
-        Reviewer
+    description: 
   
 
   # - title: Professor of Semiconductor Physics

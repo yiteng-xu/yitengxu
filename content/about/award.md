@@ -37,8 +37,7 @@ experience:
     location: China
     date_start: '2020-08-01'
     date_end: '2020-08-01'
-    description: |2-
-        -
+    description: 
 
   
 
