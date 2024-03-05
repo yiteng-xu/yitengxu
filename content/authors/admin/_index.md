@@ -44,13 +44,14 @@ bio: My research interests include 3D Video Understanding, and point cloud repre
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    # link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:xuyt2023@shanghaitech.edu.cn' # For a direct email link, use "mailto:test@example.org".
+  - icon: weixin
     icon_pack: fab
     link: https://twitter.com/wowchemy
-  - icon: instagram
+  - icon: google-scholar
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://scholar.google.com/citations?user=29Gs2nQAAAAJ&hl=zh-CN
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
