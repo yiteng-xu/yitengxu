@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Seattle WA, USA
-    date_start: ''
-    date_end: ''
+    # date_start: ''
+    # date_end: ''
     description: |2-
         We propose a unified framework to make full use of the prior knowledge and explore the inherent features in the data itself for generalized human-centric point cloud video understanding.
   # - title: CEO
