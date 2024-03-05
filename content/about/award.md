@@ -30,6 +30,14 @@ experience:
     date_start: '2023-11-01'
     date_end: '2023-11-01'
     description: A low-cost and highly accurate product developed based on copy number features for predicting the presence of homologous recombination defect features in pan cancer patients.
+  - title: Shanghai Outstanding Graduates
+    company: Shanghai Outstanding Graduates
+    company_url: 'https://mp.weixin.qq.com/s/uGoc-ShPweWyjLSuGbNlLw'
+    company_logo: org-x
+    location: Shanghai, China
+    date_start: '2023-06-18'
+    date_end: '2023-06-18'
+    description: 
   - title: National College Robot Competition
     company: National Second Prize
     company_url: ''
