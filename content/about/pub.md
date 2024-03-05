@@ -30,7 +30,7 @@ experience:
     date_start: '2024-06-17'
     date_end: '2024-06-21'
     description: |2-
-        We propose a unified framework to make full use of the prior knowledge and explore the inherent features in the data itself for generalized human-centric point cloud video understanding.
+        Considering that human has specific characteristics, including the structural semantics of human body and the dynamics of human motions, we propose a unified framework to make full use of the prior knowledge and explore the inherent features in the data itself for generalized human-centric point cloud video understanding.
   - title: Human-centric scene understanding for 3d large-scale scenarios
     company: Accepted by ICCV2023
     company_url: ''
