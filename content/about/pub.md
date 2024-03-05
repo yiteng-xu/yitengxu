@@ -48,7 +48,7 @@ experience:
     date_start: '2023-02-07'
     date_end: '2023-02-14'
     description: |2-
-        We propose a monocular camera and single LiDAR-based method for 3D multi-person pose estimation in large-scale scenes, with an effective fusion strategy to take advantage of multi-modal input data and make full use of temporal information to guide the network to learn natural and coherent human motions.
+        We propose a monocular camera and single LiDAR-based method for 3D multi-person pose estimation in large-scale scenes, with an effective fusion strategy to take advantage of multi-modal input data and make full use of temporal information to guide the network to learn natural and coherent human motions in a weak supervised paradigm.
   #   company: GenCoin
   #   company_url: ''
   #   company_logo: org-gc
