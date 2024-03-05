@@ -22,28 +22,43 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: ECCV2024 Reviewer
+    company: ECCV2024
+    company_url: 'https://eccv2024.ecva.net/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Milan, Italy
+    date_start: '2024-09-29'
+    date_end: '2024-10-4'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Reviewer
+  - title: CVPR2024 Reviewer
+    company: CVPR2024
+    company_url: 'https://cvpr.thecvf.com/'
+    company_logo: org-gc
+    location: Seattle WA, USA
+    date_start: '2024-06-17'
+    date_end: '2024-06-21'
+    description: |2-
+        Reviewer
+  - title: ICCV2023 Reviewer
+    company: ICCV2023
+    company_url: 'https://iccv2023.thecvf.com/'
+    company_logo: org-gc
+    location: Paris, France
+    date_start: '2023-10-02'
+    date_end: '2023-10-06'
+    description: |2-
+        Reviewer
+  
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  # - title: Professor of Semiconductor Physics
+  #   company: University X
+  #   company_url: ''
+  #   company_logo: org-x
+  #   location: California
+  #   date_start: '2016-01-01'
+  #   date_end: '2020-12-31'
+  #   description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '1'
