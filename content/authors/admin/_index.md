@@ -47,10 +47,10 @@ social:
     # link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
     link: 'mailto:xuyt2023@shanghaitech.edu.cn' # For a direct email link, use "mailto:test@example.org".
   - icon: weixin
-    icon_pack: fab
+    icon_pack: hb
     link: https://twitter.com/wowchemy
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: hb
     link: https://scholar.google.com/citations?user=29Gs2nQAAAAJ&hl=zh-CN
 # Uncomment below for Github link
 #- icon: github
