@@ -39,7 +39,7 @@ experience:
     date_start: '2023-10-02'
     date_end: '2023-10-06'
     description: |2-
-        We present a large-scale multi-modal dataset for human-centric scene understanding, dubbed HuCenLife, which is collected in diverse daily-life scenarios with rich and fine-grained annotations, with benchmarks in any 3D perception tasks, such as segmentation, detection, action recognition, etc.
+        We present a large-scale multi-modal dataset for human-centric scene understanding, dubbed HuCenLife, which is collected in diverse daily-life scenarios with rich and fine-grained annotations, with benchmarks in 3D perception tasks, such as segmentation, detection, action recognition, etc.
   - title: Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR
     company: Accepted by AAAI2023(Oral)
     company_url: 'https://ojs.aaai.org/index.php/AAAI/article/view/25120'
