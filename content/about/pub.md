@@ -37,7 +37,7 @@ experience:
     company_logo: org-gc
     location: Paris, France
     date_start: '2023-10-02'
-    date_end: '2024-10-06'
+    date_end: '2023-10-06'
     description: |2-
         We present a large-scale multi-modal dataset for human-centric scene understanding, dubbed HuCenLife, which is collected in diverse daily-life scenarios with rich and fine-grained annotations, with benchmarks in any 3D perception tasks, such as segmentation, detection, action recognition, etc.
   - title: Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR
