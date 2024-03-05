@@ -30,8 +30,25 @@ experience:
     date_start: '2024-06-17'
     date_end: '2024-06-21'
     description: |2-
-        We propose a unified framework to make full use of the prior knowledge and explore the inherent features in the data itself for generalized human-centric point cloud video understanding.
-  # - title: CEO
+        We propose a unified framework to make full use of the prior knowledge and explore the inherent features in the data itself for generalized human-centric point cloud video understanding, with benchmarks in any 3D perception tasks, such as segmentation, detection, action recognition, etc.
+  - title: Human-centric scene understanding for 3d large-scale scenarios
+    company: Accepted by ICCV2023
+    company_url: ''
+    company_logo: org-gc
+    location: Paris, France
+    date_start: '2023-10-02'
+    date_end: '2024-10-06'
+    description: |2-
+        We present a large-scale multi-modal dataset for human-centric scene understanding, dubbed HuCenLife, which is collected in diverse daily-life scenarios with rich and fine-grained annotations.
+  - title: Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR
+    company: Accepted by AAAI2023(Oral)
+    company_url: ''
+    company_logo: org-gc
+    location: Washington, DC, USA
+    date_start: '2023-02-07'
+    date_end: '2023-02-14'
+    description: |2-
+        We propose a monocular camera and single LiDAR-based method for 3D multi-person pose estimation in large-scale scenes, with an effective fusion strategy to take advantage of multi-modal input data and make full use of temporal information to guide the network to learn natural and coherent human motions.
   #   company: GenCoin
   #   company_url: ''
   #   company_logo: org-gc
