@@ -30,7 +30,7 @@ experience:
     date_start: '2024-06-17'
     date_end: '2024-06-21'
     description: |2-
-        We propose a unified framework to make full use of the prior knowledge and explore the inherent features in the data itself for generalized human-centric point cloud video understanding, with benchmarks in any 3D perception tasks, such as segmentation, detection, action recognition, etc.
+        We propose a unified framework to make full use of the prior knowledge and explore the inherent features in the data itself for generalized human-centric point cloud video understanding.
   - title: Human-centric scene understanding for 3d large-scale scenarios
     company: Accepted by ICCV2023
     company_url: ''
@@ -39,7 +39,7 @@ experience:
     date_start: '2023-10-02'
     date_end: '2024-10-06'
     description: |2-
-        We present a large-scale multi-modal dataset for human-centric scene understanding, dubbed HuCenLife, which is collected in diverse daily-life scenarios with rich and fine-grained annotations.
+        We present a large-scale multi-modal dataset for human-centric scene understanding, dubbed HuCenLife, which is collected in diverse daily-life scenarios with rich and fine-grained annotations, with benchmarks in any 3D perception tasks, such as segmentation, detection, action recognition, etc.
   - title: Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR
     company: Accepted by AAAI2023(Oral)
     company_url: ''
