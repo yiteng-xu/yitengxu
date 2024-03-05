@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: A Unified Framework for Human-centric Point Cloud Video Understanding
+    company: Accepted by CVPR2024
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Seattle WA, USA
+    date_start: '2024-06-17'
+    date_end: '2024-06-21'
     description: |2-
-        Responsibilities include:
+        We propose a unified framework to make full use of the prior knowledge and explore the inherent features in the data itself for generalized human-centric point cloud video understanding.
+  # - title: CEO
+  #   company: GenCoin
+  #   company_url: ''
+  #   company_logo: org-gc
+  #   location: California
+  #   date_start: '2021-01-01'
+  #   date_end: ''
+  #   description: |2-
+  #       Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+  #       * Analysing
+  #       * Modelling
+  #       * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  # - title: Professor of Semiconductor Physics
+  #   company: University X
+  #   company_url: ''
+  #   company_logo: org-x
+  #   location: California
+  #   date_start: '2016-01-01'
+  #   date_end: '2020-12-31'
+  #   description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '1'
