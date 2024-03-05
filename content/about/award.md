@@ -30,9 +30,9 @@ experience:
     date_start: '2023-11-01'
     date_end: '2023-11-01'
     description: A low-cost and highly accurate product developed based on copy number features for predicting the presence of homologous recombination defect features in pan cancer patients.
-  - title: The 19th National College Student Robot Competition ROBOMASTER 2020
+  - title: National College Robot Competition
     company: National Second Prize
-    company_url: 'https://www.robomaster.com/zh-CN'
+    company_url: ''
     company_logo: org-gc
     location: China
     date_start: '2020-08-01'

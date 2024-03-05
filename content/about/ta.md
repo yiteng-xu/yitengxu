@@ -23,14 +23,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Introduction to Information Science and Technology
-    company: Teaching Assistant(TA)
-    company_url: ''
-    company_logo: org-x
-    location: ShanghaiTech University
-    date_start: '2021-02-01'
-    date_end: '2021-07-01'
-    description: 
-  - title: Introduction to Information Science and Technology
     company: Leading Teaching Assistant(Lead TA)
     company_url: ''
     company_logo: org-x
@@ -38,6 +30,15 @@ experience:
     date_start: '2023-02-01'
     date_end: '2023-07-01'
     description: 
+  - title: Introduction to Information Science and Technology
+    company: Teaching Assistant(TA)
+    company_url: ''
+    company_logo: org-x
+    location: ShanghaiTech University
+    date_start: '2021-02-01'
+    date_end: '2021-07-01'
+    description: 
+  
   
 
   
