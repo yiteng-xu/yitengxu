@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: ECCV2024 Reviewer
-    company: ECCV2024
+    company: The 18th European Conference on Computer Vision ECCV 2024
     company_url: 'https://eccv2024.ecva.net/'
     company_logo: org-gc
     location: Milan, Italy
@@ -31,7 +31,7 @@ experience:
     date_end: '2024-10-04'
     description: 
   - title: CVPR2024 Reviewer
-    company: CVPR2024
+    company: The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024 CVPR2024
     company_url: 'https://cvpr.thecvf.com/'
     company_logo: org-gc
     location: Seattle WA, USA
@@ -39,7 +39,7 @@ experience:
     date_end: '2024-06-21'
     description: 
   - title: ICCV2023 Reviewer
-    company: ICCV2023
+    company: IEEE Conference on International Conference on Computer Vision ICCV2023
     company_url: 'https://iccv2023.thecvf.com/'
     company_logo: org-gc
     location: Paris, France
