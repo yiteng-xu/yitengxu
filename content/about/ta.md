@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Introduction to Programming
+    company: Teaching Assistant
+    company_url: ''
+    company_logo: org-x
+    location: ShanghaiTech University
+    date_start: '2024-03-15'
+    date_end: '2024-07-01'
+    description: 
   - title: Introduction to Information Science and Technology
     company: Teaching Assistant Leader (Lead TA)
     company_url: ''
