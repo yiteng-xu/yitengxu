@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Introduction to Programming
-    company: Teaching Assistant
+    company: Teaching Assistant(TA)
     company_url: ''
     company_logo: org-x
     location: ShanghaiTech University
