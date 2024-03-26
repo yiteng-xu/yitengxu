@@ -22,9 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Participated in the 3rd China 3D Vision Conference(China 3DV)
-    company: CSIG
-    company_url: ''
+  - title: Participated in the 3rd China 3D Vision Conference(China 3DV 2024)
+    company: Our work has been accepted by China 3DV 2024
+    company_url: 'http://csig3dv.net/ShowPoster.html'
     company_logo: org-gc
     location: Shenzhen, China
     date_start: '2024-04-19'
