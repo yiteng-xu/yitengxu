@@ -38,14 +38,6 @@ experience:
     date_start: '2024-06-17'
     date_end: '2024-06-21'
     description: 
-  - title: ICCV2023 Reviewer
-    company: IEEE Conference on International Conference on Computer Vision ICCV2023
-    company_url: 'https://iccv2023.thecvf.com/'
-    company_logo: org-gc
-    location: Paris, France
-    date_start: '2023-10-02'
-    date_end: '2023-10-06'
-    description: 
   
 
   # - title: Professor of Semiconductor Physics
