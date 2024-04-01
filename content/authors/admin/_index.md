@@ -49,6 +49,13 @@ social:
   - icon: google-scholar
     icon_pack: fab
     link: https://scholar.google.com/citations?user=29Gs2nQAAAAJ&hl=zh-CN
+  - icon: orcid
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=29Gs2nQAAAAJ&hl=zh-CN
+  - icon: arxiv
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=29Gs2nQAAAAJ&hl=zh-CN
+
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
