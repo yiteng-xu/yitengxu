@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: NeurIPS 2024 Reviewer
+    company: the Thirty-eighth Annual Conference on Neural Information Processing Systems NeurIPS 2024
+    company_url: 'https://neurips.cc/'
+    company_logo: org-gc
+    location: Vancouver, Canada
+    date_start: '2024-12-09'
+    date_end: '2024-12-15'
+    description: 
   - title: ECCV2024 Reviewer
     company: The 18th European Conference on Computer Vision ECCV 2024
     company_url: 'https://eccv2024.ecva.net/'
